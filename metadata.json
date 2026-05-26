@@ -1,0 +1,9 @@
+{
+  "name": "Battery Charge Limit",
+  "description": "Adds a custom slider to Quick Settings for controlling battery charge limit",
+  "uuid": "batlimit@fahrul.id",
+  "shell-version": ["50"],
+  "version": 1,
+  "url": "https://github.com/fahrulseptiana/gnome-shell-extensions-batlimit",
+  "settings-schema": "org.gnome.shell.extensions.batlimit"
+}

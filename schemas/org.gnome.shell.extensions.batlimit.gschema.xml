@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.batlimit"
+          path="/org/gnome/shell/extensions/batlimit/">
+    <key name="charge-limit" type="d">
+      <default>80.0</default>
+      <summary>Battery charge limit percentage</summary>
+      <description>Target battery charge limit in percent (0-100).</description>
+      <range min="0" max="100"/>
+    </key>
+  </schema>
+</schemalist>

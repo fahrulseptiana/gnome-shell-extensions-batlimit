@@ -1,0 +1,9 @@
+/* Quick Settings slider styles */
+
+.batlimit-percent-label {
+    font-size: 0.9em;
+    font-weight: 500;
+    min-width: 2em;
+    text-align: center;
+    padding: 0 4px;
+}
